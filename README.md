@@ -1,4 +1,8 @@
-## Hi there 👋
+## DevHegemony (digitallyserviced)
+
+![Peek 2025-02-14 00-43](https://github.com/user-attachments/assets/cf49ea2d-cc7e-4a19-8e84-6abeabde0b5d)
+
+
 
 <!--
 **digitallyserviced/digitallyserviced** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
